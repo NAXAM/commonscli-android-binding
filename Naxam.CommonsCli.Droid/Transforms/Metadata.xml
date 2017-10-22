@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<attr
+		path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='DEFAULT_ARG_NAME']"
+		name="managedName">DEFAULT_ARG_NAME</attr>
+	<attr
+		path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='DEFAULT_DESC_PAD']"
+		name="managedName">DEFAULT_DESC_PAD</attr>
+	<attr
+		path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='DEFAULT_LEFT_PAD']"
+		name="managedName">DEFAULT_LEFT_PAD</attr>
+	<attr
+		path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='DEFAULT_LONG_OPT_PREFIX']"
+		name="managedName">DEFAULT_LONG_OPT_PREFIX</attr>
+	<attr
+		path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='DEFAULT_OPT_PREFIX']"
+		name="managedName">DEFAULT_OPT_PREFIX</attr>
+	<attr
+		path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='DEFAULT_SYNTAX_PREFIX']"
+		name="managedName">DEFAULT_SYNTAX_PREFIX</attr>
+	<attr
+		path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='DEFAULT_WIDTH']"
+		name="managedName">DEFAULT_WIDTH</attr>
+    <attr
+        path="/api/package[@name='org.apache.commons.cli']/class[@name='HelpFormatter']/field[@name='optionComparator']"
+        name="managedName">_optionComparator</attr>
+</metadata>
